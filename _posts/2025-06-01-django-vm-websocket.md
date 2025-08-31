@@ -7,9 +7,10 @@ categories: [python, django, observability, websocket]
 
 This page is image uplord
 
-### Why Real-Time WebSocket Terminals Matter
+### cat images
 
-https://cdn.news.hidoc.co.kr/news/photo/202205/27398_65437_0638.jpg
+<img width="530" height="338" alt="image" src="https://github.com/user-attachments/assets/e3d2710b-6a62-4d11-aaf3-b6d8bfb1db3f" />
+<img width="194" height="260" alt="image" src="https://github.com/user-attachments/assets/39dfe6fc-71dd-43c3-ac69-ceeadfbc0b86" />
 
 ### The Stack: Django, Channels, xterm.js, and More
 
