@@ -1,15 +1,15 @@
 ---
 layout: post
-title:  "Real-Time EC2 WebSocket Terminal with Django, Channels, and OpenTelemetry"
+title:  "image uplord"
 date:   2024-04-23 10:15:00 +0700
 categories: [python, django, observability, websocket]
 ---
 
-Are you looking to build a real-time, browser-based terminal that streams interactive shell sessions from an AWS EC2 instance, with full observability and distributed tracing? In this post, I'll walk you through a modern Django stack that does exactly that—leveraging Django Channels, xterm.js, Celery, Redis, and OpenTelemetry for a seamless developer and monitoring experience.
+This page is image uplord
 
 ### Why Real-Time WebSocket Terminals Matter
 
-Web-based terminals are invaluable for cloud management, remote debugging, and DevOps workflows. By streaming an SSH session from EC2 directly to your browser, you can securely manage infrastructure from anywhere, with full auditability and performance monitoring.
+https://cdn.news.hidoc.co.kr/news/photo/202205/27398_65437_0638.jpg
 
 ### The Stack: Django, Channels, xterm.js, and More
 
