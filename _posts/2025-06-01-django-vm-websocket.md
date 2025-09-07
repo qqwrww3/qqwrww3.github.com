@@ -33,18 +33,6 @@ categories: [python, Django]
 실제 내 블로그는 처음 만드는 것이라서<br>
 아무거나 올리고 싶었다
 
-### 언재인지 모르갰는데 그 떄 교통사고 현장 목격함
-
-앞에 검은 차가 가고 있었는데 비 때문에 길이 미끄러워서<br>
-잠깐 세웠는데 뒤에 가던 차가 급발진하더니 표지판에 박음
-진짜 ㄹㅈㄷ였음
-
-To connect to your EC2 instance:
-- Set environment variables:
-  ```bash
-  export AWS_HOSTNAME=your-ec2-public-dns
-  export AWS_USERNAME=ec2-user
-  ```
 - Place your SSH private key as `terminal/aws.pem` (chmod 600, not tracked by git)
 
 The backend will use these to establish an SSH session for the WebSocket terminal.
