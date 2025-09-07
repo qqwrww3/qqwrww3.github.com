@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "image uplord"
-date:   2025-09-08 12:05:00 +0700
+date:   2025-09-07 12:05:00 +0700
 categories: [python]
 ---
 
