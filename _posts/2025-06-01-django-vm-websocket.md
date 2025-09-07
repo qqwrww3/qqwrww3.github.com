@@ -33,10 +33,11 @@ categories: [python, Django]
 실제 내 블로그는 처음 만드는 것이라서<br>
 아무거나 올리고 싶었다
 
-### 3. Access the Terminal
-Open [http://localhost:8000/](http://localhost:8000/) in your browser. You'll see a live terminal powered by xterm.js.
+### 언재인지 모르갰는데 그 떄 굥통사고 현장 목격함
 
-### EC2 SSH Configuration
+앞에 검은 차가 가고 있었는데 비 때문에 길이 미끄러워서<br>
+잠깐 세웠는데 뒤에 가던 차가 급발진하더니 표지판에 박음
+진짜 ㄹㅈㄷ였음
 
 To connect to your EC2 instance:
 - Set environment variables:
