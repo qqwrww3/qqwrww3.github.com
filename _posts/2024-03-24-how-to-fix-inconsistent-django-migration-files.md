@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How to fix InconsistentMigrationHistory or other issues because migrations files are changed by 3rd party packages"
+title:  "hello"
 date:   2024-03-24 23:15:00 +0700
 categories: [python, django]
 ---
