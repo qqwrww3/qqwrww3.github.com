@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "image uplord"
+title:  "이미지 업로드"
 date:   2024-06-01 12:05:00 +0700
 categories: [python, Django]
 ---
 
-This page is image uplord
+여러 이미지를 올리는 곳
 
-### cat images
+### 고양이 이미지들
 
 <img width="530" height="338" alt="image" src="https://github.com/user-attachments/assets/e3d2710b-6a62-4d11-aaf3-b6d8bfb1db3f" /><br>
 <img width="194" height="260" alt="image" src="https://github.com/user-attachments/assets/39dfe6fc-71dd-43c3-ac69-ceeadfbc0b86" />
 
-### The Stack: Django, Channels, xterm.js, and More
+### 강아지 이미지들
 
 This project combines:
 - **Django + Channels** for WebSocket support
