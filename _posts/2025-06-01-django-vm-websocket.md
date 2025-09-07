@@ -17,32 +17,23 @@ categories: [python, Django]
 <img width="173" height="148" alt="image" src="https://github.com/user-attachments/assets/989b9b12-6d87-49c0-b9b9-339e2a4fe4de" /><br>
 <img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/64f4619f-ec3c-4e58-9f86-02048993ceb0" /><br>
 
-### Key Features
+### 게임 이미지
 
-- **WebSocket Terminal**: Real-time, interactive shell in your browser
-- **EC2 SSH Integration**: Backend logic ready to stream from AWS EC2 (just add your credentials)
-- **Distributed Tracing**: End-to-end observability for HTTP, WebSocket, Celery, and Redis
-- **Health Check API**: `/health-check/` endpoint and periodic Celery task
-- **Grafana Dashboards**: Visualize traces and service performance
+<img width="300" height="168" alt="image" src="https://github.com/user-attachments/assets/2dd077b5-f538-4510-83d4-a6b15dea65ab" />
 
-### Getting Started
+#### 내가 왜 이런 것들을 올리는가
 
-#### 1. Clone and Set Up
-```bash
-git clone git@github.com:agusmakmun/django-aws-terminal-websocket.git
-cd django-aws-terminal-websocket/
-pip install -r requirements.txt
-```
+### 1. 의미가 없어서
 
-#### 2. Run the Full Stack
-```bash
-docker-compose up --build
-```
-- Django app: [http://localhost:8000/](http://localhost:8000/)
-- Jaeger UI: [http://localhost:16686/](http://localhost:16686/)
-- Grafana: [http://localhost:3000/](http://localhost:3000/)
+이 이미지들에 의미는 없다
+그냥 올리는 것임
 
-#### 3. Access the Terminal
+### 2. 올리고 싶어서
+
+실제 내 블로그는 처음 만드는 것이라서
+아무거나 올리고 싶었다
+
+### 3. Access the Terminal
 Open [http://localhost:8000/](http://localhost:8000/) in your browser. You'll see a live terminal powered by xterm.js.
 
 ### EC2 SSH Configuration
