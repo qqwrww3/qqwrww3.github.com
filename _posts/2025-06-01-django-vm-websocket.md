@@ -33,15 +33,7 @@ categories: [python, Django]
 실제 내 블로그는 처음 만드는 것이라서<br>
 아무거나 올리고 싶었다
 
-- Place your SSH private key as `terminal/aws.pem` (chmod 600, not tracked by git)
-
-The backend will use these to establish an SSH session for the WebSocket terminal.
-
-### Observability: Tracing Everything
-
-- **OpenTelemetry**: Traces HTTP, WebSocket, Celery, and Redis operations
-- **Jaeger**: Visualize traces and debug performance bottlenecks
-- **Grafana**: Build dashboards for service monitoring
+### 
 
 #### Class-Level Tracing
 Decorators like `@traced_class` and `@traced_async_class` automatically trace all methods in a class, reducing boilerplate and ensuring consistent observability.
