@@ -16,8 +16,6 @@ categories: [python, Django]
 
 <img width="173" height="148" alt="image" src="https://github.com/user-attachments/assets/989b9b12-6d87-49c0-b9b9-339e2a4fe4de" /><br>
 <img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/64f4619f-ec3c-4e58-9f86-02048993ceb0" /><br>
-<img width="281" height="498" alt="image" src="https://github.com/user-attachments/assets/6c905839-b7a9-4f61-bbdb-ac43c46e86fa" />
-
 
 ### Key Features
 
