@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "image uplord"
-date:   2024-04-23 10:15:00 +0700
-categories: [python, django, observability, websocket]
+date:   2025-09-08 12:05:00 +0700
+categories: [python]
 ---
 
 This page is image uplord
