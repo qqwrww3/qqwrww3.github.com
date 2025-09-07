@@ -14,14 +14,10 @@ categories: [python, Django]
 
 ### 강아지 이미지들
 
-This project combines:
-- **Django + Channels** for WebSocket support
-- **xterm.js** for a beautiful, interactive frontend terminal
-- **Celery** for background tasks and periodic health checks
-- **Redis** as cache and message broker
-- **OpenTelemetry, Jaeger, and Grafana** for distributed tracing and service performance monitoring
+<img width="173" height="148" alt="image" src="https://github.com/user-attachments/assets/989b9b12-6d87-49c0-b9b9-339e2a4fe4de" /><br>
+<img width="270" height="148" alt="image" src="https://github.com/user-attachments/assets/64f4619f-ec3c-4e58-9f86-02048993ceb0" /><br>
+<img width="281" height="498" alt="image" src="https://github.com/user-attachments/assets/6c905839-b7a9-4f61-bbdb-ac43c46e86fa" />
 
-All services are orchestrated with Docker Compose for easy local development and deployment.
 
 ### Key Features
 
