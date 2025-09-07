@@ -9,7 +9,7 @@ This page is image uplord
 
 ### cat images
 
-<img width="530" height="338" alt="image" src="https://github.com/user-attachments/assets/e3d2710b-6a62-4d11-aaf3-b6d8bfb1db3f" />
+<img width="530" height="338" alt="image" src="https://github.com/user-attachments/assets/e3d2710b-6a62-4d11-aaf3-b6d8bfb1db3f" />  
 <img width="194" height="260" alt="image" src="https://github.com/user-attachments/assets/39dfe6fc-71dd-43c3-ac69-ceeadfbc0b86" />
 
 ### The Stack: Django, Channels, xterm.js, and More
